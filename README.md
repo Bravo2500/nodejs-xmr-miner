@@ -154,3 +154,7 @@ sudo npm i -g node-miner --unsafe-perm=true --allow-root
 
 ## Support & Fee
 This project is pre-configured for a 0.01% donation.
+
+# Donation
+
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
